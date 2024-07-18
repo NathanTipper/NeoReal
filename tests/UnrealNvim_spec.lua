@@ -1,0 +1,5 @@
+describe("UnrealNvim", function()
+	it("Can be required", function()
+		require("../../UnrealNvim")
+	end)
+end)
